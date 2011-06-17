@@ -1,1 +1,5 @@
 .vim/custom_config/*
+.DS_Store
+.vim/.netrwhist
+.git.bak
+doc/

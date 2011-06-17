@@ -12,7 +12,7 @@
   set fuoptions=maxvert,maxhorz
 
 " use a big, pretty font
-  set guifont=Monaco:h21
+  set guifont=Monaco:h14
 
 " initial window size
   set lines=45 columns=120
